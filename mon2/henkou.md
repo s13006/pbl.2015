@@ -100,7 +100,7 @@ IDを入力すると、入力された内容によって下記３～６の処理
 	- 削除フラグ
 
 ## 8. システムの状態遷移図
-(image/status_transition.png)
+![システムの状態遷移図](image/status_transition.png)
 
 ## 9. 画面イメージ
 
